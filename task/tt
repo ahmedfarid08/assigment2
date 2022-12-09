@@ -1,0 +1,72 @@
+<section id="sec-16">
+        <div id="sec-161">
+            <div id="sec-152" class="d-flex">
+                <p class="text-muted text-uppercase">publish what you think</p>
+                <h2 class="text-uppercase"><strong>latest blogs</strong></h2>
+                <p class="text-danger">____</p>
+            </div>
+            <div id="sec-16-header" class="d-flex ">
+                <div >
+                    <div class="sec-16-pad pkg-item">
+                        <img src="images/p5.webp" alt="" width="250px" height="150px">
+                    </div>
+                    <br><br>
+                    <div class="pkg-details">
+                        <p class="text-muted text-uppercase">25 april 2017| by <span><a href="#"class="nav-link active sec-16-a sec-hov">jay benjamin</a></span></p>
+                    </div>
+                    <!-- <p><span><a href="#"class="nav-link active sec-16-a sec-hov">I like the body, I like to design <br>everything to do
+                        with the body</a></span></p> -->
+                    <p><a href="#" class="text-dark sec-16-p " id="sec-hov2">I like the body, I like to design <br>everything to do
+                            with the body</a></p>
+                    <hr>
+                    <p class="text-muted sn">Lorem Ipsum is simply dummy text of <br>the printing and typesetting
+                        industry.<br> Lorem Ipsum has... </p>
+                </div>
+                <div>
+                    <div class="sec-16-pad pkg-item">
+                        <img src="images/p6.webp" alt="" width="250px" height="150px">
+                    </div>
+                    <br><br>
+                    <div>
+                        <p class="text-muted text-uppercase">20 april 2017| by <span><a href="#" class="nav-link active sec-16-a sec-hov">jay benjamin</a></span></p>
+                    </div>
+                    <p><a href="#" class="text-dark sec-16-p sec-hov">Style come and go. design is a<br>Language, not a
+                            style</a></p>
+                    <hr>
+                    <p class="text-muted sn">Lorem Ipsum is simply dummy text of <br>the printing and
+                        typesetting industry.<br> Lorem Ipsum has... </p>
+                </div>
+                <div>
+                    <div class="sec-16-pad pkg-item">
+                        <img src="images/p4.webp" alt="" width="250px" height="150px">
+                    </div>
+                    <br><br>
+                    <div>
+                        <p class="text-muted text-uppercase">15 march 2017| by <span><a href="#" class="nav-link active sec-16-a sec-hov">jay benjamin</a></span></p>
+                    </div>
+                    <p><a href="#" class="text-dark sec-16-p sec-hov">Recogonizing the need is the<br>Prime condidtion for
+                            design.</a></p>
+                    <hr>
+                    <p class="text-muted sn">Lorem Ipsum is simply dummy text of <br>the printing and
+                        typesetting industry.<br> Lorem Ipsum has... </p>
+                </div>
+                <div>
+                    <div class="sec-16-pad pkg-item">
+                        <img src="images/c3.jpg" alt="" width="250px" height="150px">
+                    </div>
+                    <br><br>
+                    <div>
+                        <p class="text-muted text-uppercase">20 mazrch 2017| by <span><a href="#" class="nav-link active sec-16-a sec-hov">jay benjamin</a></span></p>
+                    </div>
+                    <p><span><a href="#" class="text-dark sec-16-p sec-hov">Get in over head as often<br>and as joyfully as possible.</a></span></p>
+                    <hr>
+                    <p class="text-muted sn">Lorem Ipsum is simply dummy text of <br>the printing and
+                        typesetting industry.<br> Lorem Ipsum has... </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
